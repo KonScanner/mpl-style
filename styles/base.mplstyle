@@ -1,0 +1,27 @@
+# Fontsizes
+axes.titlesize: 22
+axes.labelsize :18
+xtick.labelsize :14
+ytick.labelsize :14
+legend.fontsize: 14
+# Linewidth/Markersize
+lines.linewidth: 3
+lines.markersize: 10
+# Legend
+legend.loc: best
+# Axes
+axes.grid.which: both
+axes.grid: True
+axes3d.grid: True
+# X-axis other
+xtick.bottom: False
+xtick.minor.visible: True
+# Y-axis other
+ytick.minor.visible: True
+# Grid
+grid.alpha: 0.7
+grid.linestyle: dotted
+# Figure
+figure.autolayout: True
+figure.dpi: 150
+figure.figsize: 12,6
